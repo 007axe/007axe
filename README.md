@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <h1>Hi👋 I'm Sumetee</h1>
   <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
+  <img src="https://komarev.com/ghpvc/?username=007axe&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **007axe/007axe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
