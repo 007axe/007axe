@@ -1,37 +1,47 @@
-<div id="header" align="center">
-  <h1>Hi👋 I'm Sumetee</h1>
-  <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=007axe&style=flat-square&color=blue" alt=""/>
-</div>
+## Hi 👋 I'm Sumethi
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+Frontend Developer specializing in React, Next.js, and TypeScript.  
+I build scalable, user-focused web applications with modern frontend tools.
 
-</div>
+---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=007axe&theme=dark&background=000000)](https://git.io/streak-stats)
+## Tech Stack
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- State & Data: Redux Toolkit, React Query, Axios
+- Others: Git, REST API, Google Maps / Places API, i18n
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=007axe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+---
 
+## Featured Projects
 
-**007axe/007axe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tourism Platform (Next.js)
+- Public website + backoffice for staff
+- Infinite scroll, filters, multi-language support (TH / EN / CN)
+- Integrated Google Places API and location sharing
+- Tech: Next.js, TypeScript, Redux, Tailwind CSS
 
-Here are some ideas to get you started:
+### Trip Planner Application
+- Multi-step trip planning with AI-generated itineraries
+- Editable plans, image carousel, and map-based location selection
+- Tech: Next.js, React Hook Form, Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I’m Good At
+- Designing frontend architecture for real-world projects
+- Handling complex state and API integrations
+- Building scalable UI with performance in mind
+- Localization & multi-language applications
+
+---
+
+## Currently Learning
+- Advanced Next.js App Router patterns
+- Performance optimization & SEO
+- Codebase refactoring and maintainability
+
+---
+
+## Contact
+- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/yourname
