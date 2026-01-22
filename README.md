@@ -7,14 +7,15 @@
   Specialized in React, Next.js, and TypeScript.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007axe&layout=compact&hide_border=true" />
-</p>
-
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react&theme=light" />
+</p>
+
 
 <hr/>
 
