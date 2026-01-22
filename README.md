@@ -1,47 +1,49 @@
-## Hi 👋 I'm Sumethi
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications" />
+</p>
 
-Frontend Developer specializing in React, Next.js, and TypeScript.  
-I build scalable, user-focused web applications with modern frontend tools.
+<p align="center">
+  Frontend Developer focused on building scalable, high-performance web applications.<br/>
+  Specialized in React, Next.js, and TypeScript.
+</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,git&perline=6" />
+</p>
 
-## Tech Stack
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
-- State & Data: Redux Toolkit, React Query, Axios
-- Others: Git, REST API, Google Maps / Places API, i18n
+<hr/>
 
----
+🚀 Featured Projects
 
-## Featured Projects
+Tourism Platform  
+• Large-scale tourism web application (Public + Backoffice)  
+• Infinite scroll, filters, and localization (TH / EN / CN)  
+• Google Maps & Places API integration  
+• Built with Next.js 15, TypeScript, Redux, Tailwind CSS  
 
-### Tourism Platform (Next.js)
-- Public website + backoffice for staff
-- Infinite scroll, filters, multi-language support (TH / EN / CN)
-- Integrated Google Places API and location sharing
-- Tech: Next.js, TypeScript, Redux, Tailwind CSS
+Trip Planner Application  
+• AI-assisted trip planning with multi-step flow  
+• Editable itineraries, image carousel, map-based selection  
+• Focus on UX, performance, and clean architecture  
+• Built with React, Next.js, Redux, React Hook Form
 
-### Trip Planner Application
-- Multi-step trip planning with AI-generated itineraries
-- Editable plans, image carousel, and map-based location selection
-- Tech: Next.js, React Hook Form, Redux
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true" />
+</p>
 
-## What I’m Good At
-- Designing frontend architecture for real-world projects
-- Handling complex state and API integrations
-- Building scalable UI with performance in mind
-- Localization & multi-language applications
+<hr/>
 
----
+Currently focusing on  
+• Advanced Next.js App Router patterns  
+• Performance optimization & SEO  
+• Improving frontend architecture for large-scale apps
 
-## Currently Learning
-- Advanced Next.js App Router patterns
-- Performance optimization & SEO
-- Codebase refactoring and maintainability
+<hr/>
 
----
-
-## Contact
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/yourname
+📫 Contact  
+Email: sumethi.kh@gmail.com
+LinkedIn: https://www.linkedin.com/in/sumethi-khumaiem-7a22693a5/
