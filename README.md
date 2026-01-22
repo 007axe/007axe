@@ -20,11 +20,11 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=007axe&show_icons=true&hide_title=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=007axe&hide_border=true" />
 </p>
 
 <hr/>
