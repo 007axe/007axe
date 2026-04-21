@@ -79,7 +79,7 @@
 
 <!-- Tools -->
 **『 Tools 』**  
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=DC143C"/>
@@ -132,7 +132,7 @@
 ### Contact
 
 <br/>
-
+> **sumethi.kh@gmail.com**
 <br/>
 
 <a href="https://github.com/007axe">
@@ -146,21 +146,4 @@
 </a>
 
 </div>
-
-<br/>
-
----
-
-<div align="center">
-
-<br/>
-
-> *「 contact me 」*  
->  
-> **sumethi.kh@gmail.com**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=footer&animation=fadeIn" width="100%"/>
-
 </div>
