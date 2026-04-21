@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- NOTE: อัปโหลดไฟล์ itachi-crows.svg ไปที่ repo ของคุณ แล้วเปลี่ยน URL ข้างล่าง -->
 
-<img src="https://raw.githubusercontent.com/007axe/007/main/itachi-crows.svg" width="100%" alt="Itachi Crows Flying"/>
+<img src="https://raw.githubusercontent.com/007axe/007axe/main/itachi-crows.svg" width="100%" alt="Itachi Crows Flying"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- BANNER / HEADER -->
