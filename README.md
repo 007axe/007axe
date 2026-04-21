@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <!-- ═════════════════ TECH STACK ═════════════════ -->
 
 <div align="center">
@@ -65,8 +63,6 @@
 
 </div>
 
----
-
 <!-- ═════════════════ STATS ═════════════════ -->
 
 <div align="center">
@@ -84,8 +80,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007axe&layout=compact&theme=dark&bg_color=000000&title_color=3B82F6&text_color=FFFFFF&border_color=1E3A8A"/>
 
 </div>
-
----
 
 <!-- ═════════════════ CONTACT ═════════════════ -->
 
