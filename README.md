@@ -18,26 +18,11 @@
 
 ---
 
-<!-- ═════════════════ ABOUT ═════════════════ -->
-
-<img align="right" width="360" src="https://media1.tenor.com/m/x_xIb2kwnyUAAAAd/itachi-uchiha.gif"/>
-
-### 👨‍💻 About Me
-
-- Frontend Developer focused on **performance, scalability, and clean architecture**
-- Experienced in building **production-ready web applications**
-- Passionate about **UX, system design, and modern frontend ecosystem**
-- Expanding into **Backend (Go, Node.js) & System Design**
-
-<br clear="right"/>
-
----
-
 <!-- ═════════════════ TECH STACK ═════════════════ -->
 
 <div align="center">
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <br/>
 
@@ -47,28 +32,18 @@
 <img src="https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<br/><br/>
-
 ### 『 Frontend 』
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 
-<br/><br/>
-
 ### 『 Styling & UI 』
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=3B82F6"/>
-
-<br/><br/>
 
 ### 『 State & Data 』
 <img src="https://img.shields.io/badge/React_Query-000000?style=for-the-badge&logo=reactquery&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/React_Hook_Form-000000?style=for-the-badge&logo=reacthookform&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3B82F6"/>
-
-<br/><br/>
 
 ### 『 Backend 』
 <img src="https://img.shields.io/badge/Node.js-1E3A8A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -77,19 +52,17 @@
 <img src="https://img.shields.io/badge/Fiber-1E3A8A?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/GORM-1E3A8A?style=for-the-badge&logo=go&logoColor=white"/>
 
-<br/><br/>
-
 ### 『 Database 』
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=3B82F6"/>
-
-<br/><br/>
 
 ### 『 Tools & DevOps 』
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=3B82F6"/>
+
 
 </div>
 
@@ -99,7 +72,7 @@
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <br/>
 
@@ -119,11 +92,11 @@
 
 <div align="center">
 
-## 📬 Contact
+## Contact
 
 <br/>
 
-**📧 sumethi.kh@gmail.com**
+**sumethi.kh@gmail.com**
 
 <br/>
 
