@@ -41,10 +41,6 @@
 
 <div align="center">
 
-## 🚀 Tech Stack
-
-<br/>
-
 <!-- Core -->
 **『 Core 』**  
 <img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -52,22 +48,16 @@
 <img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-8B0000?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<br/><br/>
-
 <!-- Frontend -->
 **『 Frontend 』**  
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-<br/><br/>
 
 <!-- Styling -->
 **『 Styling & UI 』**  
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=DC143C"/>
-
-<br/><br/>
 
 <!-- State -->
 **『 State & Data 』**  
@@ -77,9 +67,6 @@
 <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/Yup-000000?style=for-the-badge&logo=yup&logoColor=DC143C"/>
 
-
-<br/><br/>
-
 <!-- Backend -->
 **『 Backend 』**  
 <img src="https://img.shields.io/badge/Node.js-8B0000?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -88,13 +75,9 @@
 <img src="https://img.shields.io/badge/Fiber-8B0000?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/GORM-8B0000?style=for-the-badge&logo=go&logoColor=white"/>
 
-<br/><br/>
-
 <!-- Database -->
 **『 Database 』**  
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=DC143C"/>
-
-<br/><br/>
 
 <!-- Tools -->
 **『 Tools 』**  
@@ -102,7 +85,6 @@
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=DC143C"/>
-
 
 </div>
 
