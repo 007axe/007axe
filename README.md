@@ -4,7 +4,7 @@
 <!-- BANNER / HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=240&section=header&text=SUMETHI%20KHUMAIEM&fontColor=DC143C&fontSize=70&fontAlignY=38&desc=「%20Frontend%20Developer%20focused%20on%20solving%20complex%20problems%20and%20building%20scalable,%20high-performance%20web%20applications%20using modern%20frontend%20technologies.%20limits...%20are%20truly%20strong.%20」&descAlignY=62&descSize=14&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=240&section=header&text=SUMETHI%20KHUMAIEM&fontColor=DC143C&fontSize=60&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20scalable%20and%20high-performance%20web%20applications&descAlignY=62&descSize=16&descAlign=50&animation=fadeIn" width="100%"/>
 
 <!-- SHARINGAN ANIMATED TITLE -->
 <a href="#">
