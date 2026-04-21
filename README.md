@@ -15,7 +15,7 @@
 
 <!-- SHARINGAN ANIMATED TITLE -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3500&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=%E2%98%AF+Weaver+of+Interfaces+%E2%98%AF;%E2%98%AF+Frontend+Shinobi+%E2%98%AF;%E2%98%AF+Genjutsu+of+Pixels+%26+Code+%E2%98%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3500&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=%E2%98%AF+Frontend+Developer+%E2%98%AF;%E2%98%AF+Frontend+Shinobi+%E2%98%AF;%E2%98%AF+Genjutsu+of+Pixels+%26+Code+%E2%98%AF" alt="Typing SVG" />
 </a>
 
 <br/>
