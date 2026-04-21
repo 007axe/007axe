@@ -8,7 +8,7 @@
 
 <!-- SHARINGAN ANIMATED TITLE -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3500&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=%E2%98%AF+Frontend+Developer+%E2%98%AF;%E2%98%AF+React+|+Next.js+|+TypeScript+E2%98%AF;%E2%98%AF+Building+Modern+Web+Applications+%E2%98%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3500&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=%E2%98%AF+Frontend+Developer+%E2%98%AF;%E2%98%AF+React+|+Next.js+|+TypeScript+%E2%98%AF;%E2%98%AF+Building+Modern+Web+Applications+%E2%98%AF" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -114,10 +114,6 @@
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=007axe&theme=darkhub&no-frame=true&column=7&margin-w=10&title_color=DC143C" alt="trophies"/> -->
 
 <br/>
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=007axe&bg_color=000000&color=DC143C&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="98%"/>
 
 </div>
 
@@ -132,7 +128,7 @@
 ### Contact
 
 <br/>
-> **sumethi.kh@gmail.com**
+**sumethi.kh@gmail.com**
 <br/>
 
 <a href="https://github.com/007axe">
