@@ -8,11 +8,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Clean+Code+%7C+Scalable+Architecture" />
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=007axe&label=Visitors&color=1E3A8A&style=for-the-badge"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=007axe&label=Visitors&color=1E3A8A&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/007axe?label=Followers&style=for-the-badge&color=1E3A8A&labelColor=000000"/>
-<img src="https://img.shields.io/github/stars/007axe?label=Stars&style=for-the-badge&color=3B82F6&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/007axe?label=Stars&style=for-the-badge&color=3B82F6&labelColor=000000"/> -->
 
 </div>
 
