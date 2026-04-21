@@ -138,7 +138,7 @@
 <a href="https://www.linkedin.com/in/sumethi-khumaiem-7a22693a5/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=DC143C"/>
 </a>
-<a href="sumethi.kh@gmail.com">
+<a href="mailto:sumethi.kh@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=DC143C"/>
 </a>
 
