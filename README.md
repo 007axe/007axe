@@ -21,9 +21,9 @@
 <br/>
 
 <!-- VISITOR BADGE + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Visitors&color=8B0000&style=for-the-badge" alt="visitors"/>
-<img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=8B0000&labelColor=000000" alt="followers"/>
-<img src="https://img.shields.io/github/stars/your-username?label=Stars&style=for-the-badge&color=DC143C&labelColor=000000" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=007axe&label=Visitors&color=8B0000&style=for-the-badge" alt="visitors"/>
+<img src="https://img.shields.io/github/followers/007axe?label=Followers&style=for-the-badge&color=8B0000&labelColor=000000" alt="followers"/>
+<img src="https://img.shields.io/github/stars/007axe?label=Stars&style=for-the-badge&color=DC143C&labelColor=000000" alt="stars"/>
 
 </div>
 
@@ -114,7 +114,7 @@ weakness: "Internet Explorer"
 <br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=007axe&show_icons=true&theme=dark&bg_color=000000&title_color=DC143C&icon_color=8B0000&text_color=ffffff&border_color=8B0000&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&background=000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&border=8B0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=007axe&theme=dark&background=000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&border=8B0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF"/>
 
 <br/>
 <br/>
@@ -154,10 +154,10 @@ weakness: "Internet Explorer"
 <a href="https://github.com/007axe">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=DC143C"/>
 </a>
-<a href="https://linkedin.com/in/your-username">
+<a href="https://linkedin.com/in/007axe">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=DC143C"/>
 </a>
-<a href="https://twitter.com/your-username">
+<a href="https://twitter.com/007axe">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=DC143C"/>
 </a>
 <a href="mailto:your-email@example.com">
