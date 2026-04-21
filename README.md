@@ -35,25 +35,6 @@
 
 <img align="right" alt="Itachi" width="380" src="https://media1.tenor.com/m/x_xIb2kwnyUAAAAd/itachi-uchiha.gif" />
 
-### ☯ About the Shinobi
-
-```yaml
-name: "Your Name"
-alias: "Itachi of the Frontend"
-village: "Hidden in the Browser"
-rank: "ANBU Frontend Captain"
-clan: "Uchiha // The Pixel Weavers"
-kekkei_genkai:
-  - "Sharingan → sees every CSS bug"
-  - "Tsukuyomi → debugs in another dimension"
-  - "Amaterasu → burns legacy code"
-current_mission: "Crafting beautiful, performant UIs"
-weakness: "Internet Explorer"
-```
-
-<br clear="right"/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK / JUTSU -->
