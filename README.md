@@ -56,8 +56,6 @@
 <!-- Styling -->
 **『 Styling & UI 』**  
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=DC143C"/>
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=DC143C"/>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=DC143C"/>
 
 <!-- State -->
 **『 State & Data 』**  
@@ -81,10 +79,11 @@
 
 <!-- Tools -->
 **『 Tools 』**  
-<img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=DC143C"/>
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=DC143C"/>
 
 </div>
 
@@ -96,7 +95,7 @@
 
 <div align="center">
 
-### 🌑 Mangekyō Statistics
+### Statistics
 
 <br/>
 
@@ -130,7 +129,7 @@
 
 <div align="center">
 
-### 🩸 Contact
+### Contact
 
 <br/>
 
@@ -154,8 +153,6 @@
 
 <div align="center">
 
-### ☯ 終
-
 <br/>
 
 > *「 contact me 」*  
@@ -167,35 +164,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-
-#####
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications" />
-</p>
-
-<p align="center">
-  Frontend Developer focused on solving complex problems and building scalable, high-performance web applications using modern frontend technologies.<br/>
-  Specialized in React, Next.js, and TypeScript.
-</p>
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=light" />
-</p>
-
-
-<hr/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=007axe&show_icons=true&hide_title=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=007axe&hide_border=true" />
-</p>
-
