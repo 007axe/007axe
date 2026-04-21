@@ -154,20 +154,11 @@ weakness: "Internet Explorer"
 <a href="https://github.com/007axe">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=DC143C"/>
 </a>
-<a href="https://linkedin.com/in/007axe">
+<a href="https://www.linkedin.com/in/sumethi-khumaiem-7a22693a5/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=DC143C"/>
 </a>
-<a href="https://twitter.com/007axe">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=DC143C"/>
-</a>
-<a href="mailto:your-email@example.com">
+<a href="sumethi.kh@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=DC143C"/>
-</a>
-<a href="https://discord.com/users/your-id">
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=DC143C"/>
-</a>
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
