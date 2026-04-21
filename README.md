@@ -113,25 +113,25 @@ weakness: "Internet Explorer"
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&bg_color=000000&title_color=DC143C&icon_color=8B0000&text_color=ffffff&border_color=8B0000&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=007axe&show_icons=true&theme=dark&bg_color=000000&title_color=DC143C&icon_color=8B0000&text_color=ffffff&border_color=8B0000&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&background=000000&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&border=8B0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF"/>
 
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&bg_color=000000&title_color=DC143C&text_color=FFFFFF&border_color=8B0000&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007axe&layout=compact&theme=dark&bg_color=000000&title_color=DC143C&text_color=FFFFFF&border_color=8B0000&langs_count=8"/>
 
 <br/>
 <br/>
 
 <!-- TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&column=7&margin-w=10&title_color=DC143C" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=007axe&theme=darkhub&no-frame=true&column=7&margin-w=10&title_color=DC143C" alt="trophies"/>
 
 <br/>
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=000000&color=DC143C&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=007axe&bg_color=000000&color=DC143C&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="98%"/>
 
 </div>
 
@@ -151,7 +151,7 @@ weakness: "Internet Explorer"
 
 <br/>
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/007axe">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=DC143C"/>
 </a>
 <a href="https://linkedin.com/in/your-username">
