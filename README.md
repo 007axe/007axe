@@ -1,17 +1,10 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- CROWS FLYING BANNER (ANIMATED SVG) -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- NOTE: อัปโหลดไฟล์ itachi-crows.svg ไปที่ repo ของคุณ แล้วเปลี่ยน URL ข้างล่าง -->
-
-<img src="https://raw.githubusercontent.com/007axe/007axe/main/itachi-crows.svg" width="100%" alt="Itachi Crows Flying"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- BANNER / HEADER -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=240&section=header&text=Itachi%20Uchiha&fontColor=DC143C&fontSize=70&fontAlignY=38&desc=「%20Those%20who%20forgive%20themselves%20and%20accept%20their%20limits...%20are%20truly%20strong.%20」&descAlignY=62&descSize=14&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=240&section=header&text=SUMETHI%20KHUMAIEM&fontColor=DC143C&fontSize=70&fontAlignY=38&desc=「%20Those%20who%20forgive%20themselves%20and%20accept%20their%20limits...%20are%20truly%20strong.%20」&descAlignY=62&descSize=14&descAlign=50&animation=fadeIn" width="100%"/>
 
 <!-- SHARINGAN ANIMATED TITLE -->
 <a href="#">
@@ -200,4 +193,3 @@
 
 📫 Contact  
 Email: sumethi.kh@gmail.com
-LinkedIn: https://www.linkedin.com/in/sumethi-khumaiem-7a22693a5/
