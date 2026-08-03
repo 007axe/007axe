@@ -2,11 +2,17 @@
 
 <!-- ═════════════════ HEADER ═════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:000000&height=260&section=header&text=SUMETHI%20KHUMAIEM&fontColor=3B82F6&fontSize=60&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20Scalable%20High-Performance%20Web%20Applications&descAlignY=62&descSize=16&descAlign=50&animation=fadeIn" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:000000&height=260&section=header&text=SUMETHI%20KHUMAIEM&fontColor=3B82F6&fontSize=60&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20Scalable%20High-Performance%20Web%20Applications&descAlignY=62&descSize=16&descAlign=50&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Clean+Code+%7C+Scalable+Architecture" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Clean+Code+%7C+Scalable+Architecture" /> -->
+
+# Sumethi Khumaiem
+
+Frontend Developer
+
+Building modern web applications with React, Next.js, and TypeScript.
 
 
 <!-- <img src="https://komarev.com/ghpvc/?username=007axe&label=Visitors&color=1E3A8A&style=for-the-badge"/>
@@ -23,36 +29,29 @@
 
 <br/>
 
-### 『 Core 』
 <img src="https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1E3A8A?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-### 『 Frontend 』
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 
-### 『 Styling & UI 』
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=3B82F6"/>
 
-### 『 State & Data 』
 <img src="https://img.shields.io/badge/React_Query-000000?style=for-the-badge&logo=reactquery&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/React_Hook_Form-000000?style=for-the-badge&logo=reacthookform&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3B82F6"/>
 
-### 『 Backend 』
 <img src="https://img.shields.io/badge/Node.js-1E3A8A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-1E3A8A?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-1E3A8A?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fiber-1E3A8A?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/GORM-1E3A8A?style=for-the-badge&logo=go&logoColor=white"/>
 
-### 『 Database 』
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=3B82F6"/>
 
-### 『 Tools & DevOps 』
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=3B82F6"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=3B82F6"/>
